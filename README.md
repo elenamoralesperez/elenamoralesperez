@@ -1,4 +1,9 @@
-## **<h2>Hi there <span class="wave">👋🏻</span>, I'm Elena Morales!</h2>**
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile%21;Documenting+the+journey&center=true&width=560&height=45&color=002366&size=21">
+  </a>
+</h1>
+
 ### **About me**
 
 * Currently pursuing a **Master’s in Big Data & Cloud at EDEM**📊
