@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-Nice to meet you! I'm Elena Morales, graduate in Economics and Finance at <img src="uam.png" alt="UAM" width="35">🎓 and currently pursuing a Master in Big Data & Cloud at <img src="edem.png" alt="EDEM" width="40"><br>
+Nice to meet you! I'm Elena Morales, graduate in Economics and Finance at <img src="uam.png" alt="UAM" width="35" style="vertical-align: middle;">🎓 and currently pursuing a Master in Big Data & Cloud at <img src="edem.png" alt="EDEM" width="50" style="vertical-align: middle;"><br>
 My experience at one of the leading international professional services firms taught me the value of rigor, precision, and resilience: how to work under pressure, take on demanding responsibilities, and maintain excellence even in high-demand environments ⏱️<br>
 Drawn to analytics and continuous learning, I define myself as a committed and proactive professional, always ready to go the extra mile to bring value to every project 🧠
 </p>
