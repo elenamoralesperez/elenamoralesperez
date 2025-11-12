@@ -1,18 +1,19 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile%21;Documenting+the+journey&center=true&width=560&height=45&color=002366&size=21">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Greetings+,+I'm+Elena%21;Glad+you+are+here%21;Documenting+the+journey+...🚀&center=true&width=560&height=45&color=ADD8E6&size=25">
   </a>
 </h1>
 
-### **About me**
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/elenamoralesperez/" title="LinkedIn Profile"><img width="22" src="descarga.png"> LinkedIn</a></code>
+</h5>
+<br>
 
-* Currently pursuing a **Master’s in Big Data & Cloud at EDEM**📊
-* Graduated in a **Bilingual Degree in Economics and Finance at the Autonomous University of Madrid (UAM)** 🎓
-
-
-* Passionate about starting my journey in the data field ☁️
-* Highly motivated to keep learning and experimenting with new tools 🚀
-
+<p align="center">
+Nice to meet you! I'm Elena Morales, graduate in Economics and Finance at <img src="uam.png" alt="UAM" width="20">🎓 and currently pursuing a Master in Big Data & Cloud at <img src="edem.png" alt="EDEM" width="20"><br>
+* Passionate about starting my journey in the data field ☁️<br>
+* Highly motivated to keep learning and experimenting with new tools 🚀 <br>
+</p>
 
 ### **Languages and Tools I Use**
 
