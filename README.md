@@ -37,3 +37,14 @@ Drawn to analytics and continuous learning, I define myself as a committed and p
   <code><img title="GitHub" height="25" src="github.svg"></code>
 </p>
 <hr>
+
+<h4 align="center">
+<a href="https://github.com/elenamoralesperez"><img alt="Elena's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=elenamoralesperez&show_icons=true&count_private=true&theme=react&border_color=#4A90E2&bg_color=#F0F8FF&title_color=#0A2A66&icon_color=#64B5F6" height="150px" width="30.5%"/></a>
+<a href="https://github.com/elenamoralesperez"><img alt="Elena's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=elenamoralesperez&langs_count=8&layout=compact&theme=react&border_color=#4A90E2&bg_color=#F0F8FF&title_color=#0A2A66&icon_color=#64B5F6" height="150px" width="30.5%"/></a>
+</h4>
+
+
+<h4 align="center">
+  <a href="https://github.com/elenamoralesperez?tab=repositories" title="Repositories"> 💻 Feel free to explore my repos !🔍 </a>
+</h4>
+
